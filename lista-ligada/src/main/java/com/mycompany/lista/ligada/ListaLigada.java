@@ -1,5 +1,7 @@
 package com.mycompany.lista.ligada;
 
+import javax.swing.text.html.HTMLDocument;
+
 public class ListaLigada {
 
     private Elemento primeiro;
