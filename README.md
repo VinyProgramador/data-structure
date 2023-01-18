@@ -1,6 +1,6 @@
 # DataStructure
 
--  Fique á vontade para utilizar os exemplos
+-  Fique á vontade para utilizar os exemplos, e se utilizar da uma estelinha para o repositorio!
 -  Repositório destinado para estudar e aprender sobre estrutura de dados com java.
 -  Exemplos de algoritimos de ordenação e tipos de listas.
 
